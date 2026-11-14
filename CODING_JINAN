@@ -1,0 +1,5 @@
+public interface I Serviceable
+{
+    void Start Repair ();
+    void Complete Repair ();
+}
